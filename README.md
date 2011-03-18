@@ -125,3 +125,7 @@ Have a look at the nicely generated PersonBuilder code :
 	    }
 	
 	}
+
+## Eclipse
+
+Not working directly in eclipse, please add manually in the build path target/generates-sources/apt
